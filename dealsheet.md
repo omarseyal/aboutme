@@ -1,7 +1,4 @@
-### A list of my private investments
-
-
-**Canva** -- I consult for Canva, advising on their private search and personalization roadmap.
+### A list of my private investments/advising engagements
 
 **Vontive** -- Vontive is building an entirely new and better mortgage for investment properties—delivered through the brands real estate investors know and trust. [Vontive recently raised their Series B](https://techcrunch.com/2022/04/07/vontive-wants-to-be-the-palantir-of-real-estate-investing/)
 
@@ -31,7 +28,7 @@ _I invested in Mohak because he is a singular force, and he wanted to radically 
 
 **Thunkable** Thinkable builds no code solutions for SMBs to allow them to build apps (for commerce, engagement, etc.) ... without coding.
 
-_I believe apps and experiences are just "content" and over time it is always true that more people can create more types of content, better. Those that make this true are often winners. From the creator perspective, everything that is true of words and paragraphs and pictures will also be true of coding and apps some day. I invested in Arun as his mission and vision directly align with this, and his early traction has been impressive._
+_I believe apps (and AI agents for that matter!) are just "content" -- and over time it is always true that more people can create more types of "content" ... better. The platforms that make these advancements true are often winners. I invested in Arun as his vision directly aligns with this view of coding/apps._
 
 **Gradient AI** Gradient is building a B2B AI solution to power complex workflows.
 
@@ -40,6 +37,10 @@ _Chris, the founder of Gradient, worked on my team at Pinterest. He was always a
 **Rivian** I had the opportunity to invest in Rivian in 2018 (via Prysm Capital, whom I advise for). Rivian IPO'd Nov. 9 2021.
 
 _I invested because the product was amazing._
+
+**Canva** -- I consult for Canva, advising on their private search and personalization roadmap.
+
+**Echo AI** -- I consulted, helping Alex and Trey vet and hire product and engineering talent.
 
 Earlier in my career, I also invested in some of my batchmates in YC (**RapGenius** and **MedMonk**) and two other companies founded by friends **RunHop** (founded by Pete Davies who I met at Medium) and **LaunchBit** (founded by Elizabeth Yin who I've known since college and later as the cofounder of HustleFund!).
 
