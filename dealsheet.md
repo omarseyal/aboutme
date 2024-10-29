@@ -1,29 +1,35 @@
 ### A list of my private investments
 
-> [!NOTE]
-> This list isn't entirely complete -- there are a few investments that aren't on this list for privacy reasons.
 
-**Canva** (Consulting)
+**Canva** -- I consult for Canva, advising on their private search and personalization roadmap.
 
-**Aedeate (Genova Labs)** - Genova Labs is a California-based technology company, founded on the belief that Human-AI exchange will revolutionize the status quo -- building the foundations for the next generation AI-Native games. The founders helped build with me at Pinterest.
+**Aedeate (Genova Labs)** - Bin & Andrew were senior eng leaders at Pinterest, where they led most, if not all, innovative AI/ML systems & products for Pinterest in the last decade before they founded Aideate Inc together last year. They have now built a powerful AI Platform + APIs on top of their own Proprietary Chat & Voice models and they are partnering ($1m+ contract) directly with a top Game Studio to deploy production ready AI agents into their existing and new games.
 
-`09/12/2024`
-_Bin & Andrew were senior eng leaders at Pinterest, where they led most, if not all, innovative AI/ML systems & products for Pinterest in the last decade before they founded Aideate Inc together last year. They have now built a powerful AI Platform + APIs on top of their own Proprietary Chat & Voice models and they are partnering ($1m+ contract) directly with a top Game Studio to deploy production ready AI agents into their existing and new games._
+_I invested in them because their technical skills (particularly in AI) and product sense are unparalleled._
 
-**1stCollab** -- 1st Collab. Varun and Leon, the founders of 1st Collab, worked on my team at Pinterest.
+**Pace Groups** -- An online platform for group therapy sessions.
 
-**Atlys** - [Atlys Visa](https://techcrunch.com/2021/10/28/atlys-raises-4-25m-to-make-visa-applications-faster-and-easier/) aims to make the world of travel simpler and more transparent. Mohak, the founder, worked on my team at Pinterest.
+_I invested in Cat and Jack out of belief in their mission (therapy is a rapidly growing space), and out of respect for their own conviction in it._
 
-**Gradient AI** Gradient is building a B2B AI solution to power complex workflows. Chris, the founder of Gradient, worked on my team at Pinterest.
+**1stCollab** -- 1stCollab (YC W23) is an AI-powered influencer marketer built by the former Product Director of Discovery, Product Lead of Creator Engagement, and tech leads for the Home Feed and Ads Targeting teams at Pinterest. They are NOT an influencer marketing platform. They are the first AI influencer marketer that can replace entire influencer marketing teams. 1stCollab leverages AI and our database of 10B+ influencer posts to perform 100x better than human influencer marketers and have helped brands like Framer save over $1M a year on influencer costs and Locket run campaigns that have reached over 100M views. https://brands.1stcollab.com/.
 
-**Rivian** I had the opportunity to invest in Rivian in 2018 (via Prysm Capital, whom I advise for).
+_Varun and Leon, the founders of 1st Collab, worked on my team at Pinterest. I invested in them because they, having worked in the creators space, had a sense of a large problem they deeply believed they could solve._
 
-**?**
+**Atlys** - [Atlys Visa](https://techcrunch.com/2021/10/28/atlys-raises-4-25m-to-make-visa-applications-faster-and-easier/) aims to make the world of travel simpler and more transparent. Mohak, the founder, worked on my team at Pinterest. [Atlas recently raised their Series B from Peak IV](https://www.business-standard.com/companies/start-ups/visa-processing-platform-atlys-raises-20-million-in-series-b-funding-124092301264_1.html).
 
-**RunHop** Pete Davies and Evan Solomon were acquaintences via our work at Medium.
+_I invested in Mohak because he is a singular force, and he wanted to radically reinvent an experience (Visas) he hates._
 
-**LaunchBit** Founded by Elizabeth Yin (a college friend, and later the cofounder of HustleFund).
+**Thunkable** Thinkable builds no code solutions for SMBs to build apps ... without coding.
 
-**RapGenius** Batchmates at YC.
+_I believe apps and experiences are just "content" and over time it is always true that more people can create more types of content, better. Those that make this true are often winners. I invested in Arun as his mission and vision directly align with this, and his early traction has been impressive._
 
-**MedMonk** Batchmates at YC.
+**Gradient AI** Gradient is building a B2B AI solution to power complex workflows.
+
+_Chris, the founder of Gradient, worked on my team at Pinterest. He was always a hustler, and had a nose for success._
+
+**Rivian** I had the opportunity to invest in Rivian in 2018 (via Prysm Capital, whom I advise for). Rivian IPO'd Nov. 9 2021.
+
+_I invested because the product was amazing._
+
+I also invested in some of my batchmates in YC: **RapGenius** and **MedMonk** and other fellow entrepreneurs Pete Davies (**RunHop**) who I met at Medium and Elizabeth Yin (**LaunchBit**) who I've known since college (and later as the cofounder of HustleFund!).
+
