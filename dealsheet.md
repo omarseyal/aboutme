@@ -3,6 +3,10 @@
 
 **Canva** -- I consult for Canva, advising on their private search and personalization roadmap.
 
+**Vontive** -- Vontive is building an entirely new and better mortgage for investment properties—delivered through the brands real estate investors know and trust. [Vontive recently raised their Series B](https://techcrunch.com/2022/04/07/vontive-wants-to-be-the-palantir-of-real-estate-investing/)
+
+_I invested because (1) I have a ton of faith in Shreyas and (2) was compelled by the process through which he identified this space and solution w/ his cofounder._
+
 **Aedeate (Genova Labs)** - Bin & Andrew were senior eng leaders at Pinterest, where they led most, if not all, innovative AI/ML systems & products for Pinterest in the last decade before they founded Aideate Inc together last year. They have now built a powerful AI Platform + APIs on top of their own Proprietary Chat & Voice models and they are partnering ($1m+ contract) directly with a top Game Studio to deploy production ready AI agents into their existing and new games.
 
 _I invested in them because their technical skills (particularly in AI) and product sense are unparalleled._
@@ -31,5 +35,5 @@ _Chris, the founder of Gradient, worked on my team at Pinterest. He was always a
 
 _I invested because the product was amazing._
 
-I also invested in some of my batchmates in YC: **RapGenius** and **MedMonk** and other fellow entrepreneurs Pete Davies (**RunHop**) who I met at Medium and Elizabeth Yin (**LaunchBit**) who I've known since college (and later as the cofounder of HustleFund!).
+Earlier in my career, I also invested in some of my batchmates in YC (**RapGenius** and **MedMonk**) and two other companies founded by friends **RunHop** (founded by Pete Davies who I met at Medium) and **LaunchBit** (founded by Elizabeth Yin who I've known since college and later as the cofounder of HustleFund!).
 
