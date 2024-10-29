@@ -7,6 +7,8 @@
 
 _I invested because (1) I have a ton of faith in Shreyas and (2) was compelled by the process through which he identified this space and solution w/ his cofounder._
 
+<img src="vontive.png" alt="Vontive homepage" style="width:50%; height:auto;">
+
 **Aedeate (Genova Labs)** - Bin & Andrew were senior eng leaders at Pinterest, where they led most, if not all, innovative AI/ML systems & products for Pinterest in the last decade before they founded Aideate Inc together last year. They have now built a powerful AI Platform + APIs on top of their own Proprietary Chat & Voice models and they are partnering ($1m+ contract) directly with a top Game Studio to deploy production ready AI agents into their existing and new games.
 
 _I invested in them because their technical skills (particularly in AI) and product sense are unparalleled._
@@ -19,9 +21,13 @@ _I invested in Cat and Jack out of belief in their mission (therapy is a rapidly
 
 _Varun and Leon, the founders of 1st Collab, worked on my team at Pinterest. I invested in them because they, having worked in the creators space, had a sense of a large problem they deeply believed they could solve._
 
+<img src="1stcollab.png" alt="1stCollab homepage" style="width:50%; height:auto;">
+
 **Atlys** - [Atlys Visa](https://techcrunch.com/2021/10/28/atlys-raises-4-25m-to-make-visa-applications-faster-and-easier/) aims to make the world of travel simpler and more transparent. Mohak, the founder, worked on my team at Pinterest. [Atlas recently raised their Series B from Peak IV](https://www.business-standard.com/companies/start-ups/visa-processing-platform-atlys-raises-20-million-in-series-b-funding-124092301264_1.html).
 
 _I invested in Mohak because he is a singular force, and he wanted to radically reinvent an experience (Visas) he hates._
+
+<img src="atlys.png" alt="Atlys homepage" style="width:50%; height:auto;">
 
 **Thunkable** Thinkable builds no code solutions for SMBs to build apps ... without coding.
 
