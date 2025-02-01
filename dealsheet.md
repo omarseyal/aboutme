@@ -10,6 +10,8 @@ _I invested because (1) I have a ton of faith in Shreyas and (2) I was compelled
 
 _I invested in them because they possess top end technical and product skills._
 
+**Super Me** -- AI native expert content network
+
 **Pace Groups** -- An online platform for group therapy sessions.
 
 _I invested in Cat and Jack out of belief in their mission (therapy is a rapidly growing space), and out of respect for their own conviction in it._
